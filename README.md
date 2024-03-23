@@ -12,7 +12,7 @@
 
 2. Open index.html.
 
-[Or click here go to the website.](https://nekhocheninov.github.io/Tiny-Roguelike/)
+[Or click here to go to the website.](https://nekhocheninov.github.io/Tiny-Roguelike/)
 
 ## Controls
 - WASD - Move;
